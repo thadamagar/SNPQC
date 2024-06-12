@@ -1,0 +1,3 @@
+export("FixedSNP", "sample_callrate", "MAF", "hetObs", "snp_callrate", "filter_genotype_matrix",
+       "plot_allele_frequency", "plot_observed_heterozygosity", "plot_snp_call_rate",
+       "plot_sample_call_rate")
